@@ -1,7 +1,4 @@
----
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LET%20ME%20INTRODUCE%20OURSELVES%20TO%20YOU&fontSize=35&animation=fadeIn&fontAlignY=38&desc=KNU%20Final%20Project%20-%20Team%20'machine129'&descAlignY=51&descAlign=62)
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamtori82)](https://github.com/Hamtori82/github-readme-stats)
 
 
 <!--
