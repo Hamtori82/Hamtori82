@@ -4,9 +4,6 @@
 ---
 
 
-
-<p align="center"><img src="https://github.com/knu-final-project/.github/blob/main/KakaoTalk_20220511_130012419.jpg?raw=true" alt="출퇴근길" width="600"></p>
-
 <!--
 **Hamtori82/Hamtori82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
