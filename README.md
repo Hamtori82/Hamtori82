@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamtori82 &show_icons=true&theme=radical)](https://github.com/Hamtori82/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamtori82&show_icons=true&theme=radical)](https://github.com/Hamtori82/github-readme-stats)
 
 
 <!--
